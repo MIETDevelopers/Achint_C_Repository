@@ -1,5 +1,5 @@
 //Author:Achint Sathoo 132
-//Creation Date; 19/2/2021
+//Creation Date; 20/2/2021
 //Purpose; WAP for Check Whether a Number is Prime Number or Not.
 /*  CONDITIONS FOR PRIME NUMBER
 >> Prime number is a number which can be divided by 1 and itself
