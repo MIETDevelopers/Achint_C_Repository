@@ -1,4 +1,4 @@
-//Author:Achint Sathoo 132
+//Author:Achint Sathoo 
 //Creation Date; 20/2/2021
 //Purpose; WAP for Check Whether a Number is Prime Number or Not.
 /*  CONDITIONS FOR PRIME NUMBER
