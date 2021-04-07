@@ -1,6 +1,5 @@
 // Author Name : Achint Sathoo
 // Creation date: 31-03-21
-// Purpose: To Find the Factorial of a Program 
 #include<stdio.h>
 int main() {
     int i, n, t1 = 0, t2 = 1, nextTerm; // Variable Declration 
