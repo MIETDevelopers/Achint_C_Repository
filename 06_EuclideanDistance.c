@@ -11,7 +11,7 @@ int main() // Start of body
 	scanf("%f", &a);
 	printf("Input B: ");//taking Value of B
 	scanf("%f", &b);
-    printf("Input C: ");//taking Value of C
+        printf("Input C: ");//taking Value of C
 	scanf("%f", &c);
 	printf("Input d: ");//taking Value of D
 	scanf("%f", &d);
