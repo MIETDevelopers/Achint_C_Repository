@@ -1,6 +1,6 @@
 //Author: Achint Sathoo
 //Creation Date: 03-04-21
-//Purpose : To Create a simple calculator
+//Purpose : To Create a switch calculator
 #include<stdio.h>
 int main(){
     char operator;
