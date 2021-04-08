@@ -1,6 +1,6 @@
 //Author: Achint Sathoo
 //Creation Date: 03-04-21
-//Purpose: A C Program to calculate Area/Perimeter of different shapes.             
+//Purpose: A C Program to calculate Area/Perimeter of different shape.             
 //Area of Square: side*side: side
 //Area of Rectangle: Length * Breadth: Length, Breadth
 //Area of Circle: (22/7)*r*r: radius 
