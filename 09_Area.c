@@ -26,7 +26,7 @@ int main(){
 			break;
 		
 		default:
-            printf("Error eccoured, Please enter the values correctly!");	
+            printf("Error occoured, Please enter the values correctly!");	
 	}
 	return 0; 
 }
